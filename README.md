@@ -4,7 +4,9 @@
  step 1: 
         install php_redis.dll or .so if using Windows/Linux according to:
 Note: check right architecture (x64/486) and PHP version 
-check if thread safety enabled then download DLL file (architecture (x64/486)) Thread Safe else (architecture (x64/486)) non Thread
+check if thread safety enabled then download DLL file (architecture (x64/486)) Thread Safe else (architecture (x64/486)) non Thread\
+uing this link download .dll/.so file\
+https://pecl.php.net/package/redis \
 
 # For PHP version 7.1.4: 
 Redis version 3.1.1
