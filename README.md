@@ -1,4 +1,4 @@
-# CodeIgniter-Redis-Session
+# CodeIgniter-Redis-Session Management/Handler
 
 # Enable Redis Session in CodeIgniter 3
  step 1: 
